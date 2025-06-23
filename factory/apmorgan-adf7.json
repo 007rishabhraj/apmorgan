@@ -1,0 +1,9 @@
+{
+	"name": "apmorgan-adf7",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a732679-2851-4991-8a30-cbd418b86d87",
+		"tenantId": "a4c3b3eb-0ba7-4139-a168-4f6fb338babc"
+	}
+}
